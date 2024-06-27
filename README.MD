@@ -1,7 +1,7 @@
 # Automating investing platform
 
-> Tried automating the process of investment in one of the [unreliable] platform.  
-> After creation of account, you'll be provided 180 INR for investment, I'll use those 180 INR only for investment.  
+> Tried automating the process of investment in one of the [unreliable](https://a.dff889.top/) platform.  
+> After creation of account, you'll be provided an initial 180 INR for investment, I'll use those 180 INR only for investment.  
 > It is claimed that choosing 5-5 matches will win you the bet & it's 100% confirmed.
 
 ## Features 
@@ -16,6 +16,7 @@
 > 3. [methods](assets/methods.py) represents all the methods used to do the repitetive tasks in this project.  
 > 4. [main_account](accounts_betting/main_account.py) represents the main or the master account which holds the maximum value of profitable money/income in this investment portal.  
 > 5. [person1_account](accounts_betting/person1_account.py) represents the demo person's account whom the master account has referred and has li'l less profitable income.
+> 6. [betting](betting.py) represents actual file to run with valid arguments for investment  
 
 ## Future progress
 
@@ -26,7 +27,7 @@
 
 ## Working
 
-
+[automate-investing-website.mp4](automate-investing-website.mp4)
 
 ## Author
 

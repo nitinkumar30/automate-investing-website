@@ -8,4 +8,3 @@ do_bet(frnd1_mail, frnd1_pswd)
 # Prints current date and time
 print(datetime.datetime.now())
 driver.close()
- 
