@@ -27,7 +27,8 @@
 
 ## Working
 
-[![](automate-investing-website.mp4)](automate-investing-website.mp4)
+[![](automate-investing-website.gif)](automate-investing-website.gif)
+
 
 ## Author
 
